@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sirben
+- 👋 Hi, I’m BensonK
 - 👀 I’m interested in python ,datascience and AI
 - 🌱 I’m currently learning datascience
 - 💞️ I’m looking to collaborate on data analysis,collection and visualization
